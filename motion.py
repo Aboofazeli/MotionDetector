@@ -47,9 +47,7 @@ while True:
         if status==1:
             time_list.append(datetime.now())
         break
-print(status_list)
-print(len(time_list))
-if len()
+
 #for i in range(0,len(time_list),2):
 #    df=df.append({"Start":time_list[i],"End":time_list[i+1]}, ignore_index=True)
 
